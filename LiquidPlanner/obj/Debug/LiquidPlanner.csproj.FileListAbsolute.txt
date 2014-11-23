@@ -1,16 +1,8 @@
-c:\users\alex\documents\visual studio 2012\Projects\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.exe.config
-c:\users\alex\documents\visual studio 2012\Projects\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.exe
-c:\users\alex\documents\visual studio 2012\Projects\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.pdb
-c:\users\alex\documents\visual studio 2012\Projects\LiquidPlanner\LiquidPlanner\bin\Debug\Newtonsoft.Json.dll
-c:\users\alex\documents\visual studio 2012\Projects\LiquidPlanner\LiquidPlanner\bin\Debug\Newtonsoft.Json.xml
-c:\users\alex\documents\visual studio 2012\Projects\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.csprojResolveAssemblyReference.cache
-c:\users\alex\documents\visual studio 2012\Projects\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.exe
-c:\users\alex\documents\visual studio 2012\Projects\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.pdb
-F:\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.exe.config
-F:\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.exe
-F:\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.pdb
-F:\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.exe
-F:\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.pdb
-F:\LiquidPlanner\LiquidPlanner\bin\Debug\Newtonsoft.Json.dll
-F:\LiquidPlanner\LiquidPlanner\bin\Debug\Newtonsoft.Json.xml
-F:\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.csprojResolveAssemblyReference.cache
+C:\dev\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.exe.config
+C:\dev\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.exe
+C:\dev\LiquidPlanner\LiquidPlanner\bin\Debug\LiquidPlanner.pdb
+C:\dev\LiquidPlanner\LiquidPlanner\bin\Debug\Newtonsoft.Json.dll
+C:\dev\LiquidPlanner\LiquidPlanner\bin\Debug\Newtonsoft.Json.xml
+C:\dev\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.csprojResolveAssemblyReference.cache
+C:\dev\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.exe
+C:\dev\LiquidPlanner\LiquidPlanner\obj\Debug\LiquidPlanner.pdb
