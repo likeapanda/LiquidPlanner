@@ -90,9 +90,9 @@ namespace LiquidPlanner
             return GetObject<Member>(get("/account"));
         }
         
-        public Package GetPackage()
+        public Package GetPackage(int packageId)
         {
-            return GetObject<Package>(get("/workspaces/" + this.WorkspaceId + "/treeitems/18172878/?depth=-1&leaves=true&include=checklist_items"));
+            return GetObject<Package>(get("/workspaces/75731/treeitems/" + packageId + "/?depth=-1&leaves=true&include=checklist_items"));
         }
     }
 }

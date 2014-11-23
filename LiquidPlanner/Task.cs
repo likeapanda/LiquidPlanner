@@ -11,5 +11,6 @@ namespace LiquidPlanner
         public string name { get; set; }
 
         public List<CheckListItem> checklist_items { get; set; }
+        public Dictionary<string, string> custom_field_values { get; set; }
     }
 }
